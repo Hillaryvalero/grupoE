@@ -1,0 +1,13 @@
+body{
+
+	text-align: center;
+	background-color: #eee8e0;
+	border-width: 30
+	width:120%;
+	max-height:20% ;
+	min-height:20% ;
+	right: 120%;
+	border-width: 20%;
+   font-color:black; 
+    font-family: 'Poppins', sans-serif;
+}
