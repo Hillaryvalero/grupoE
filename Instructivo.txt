@@ -1,7 +1,7 @@
 Para visualizar el portafolio ingrese en el repositorio:https://github.com/Hillaryvalero/grupoE
 Encontrara una serie de carpetas y de archivos ; porfavor ingresar a la carpeta :
 portafolio HV
-una vez dentro de esta carpeta ingresar a portafolioHV
+una vez dentro de esta carpeta ingresar a portafoliophp
 podra visualizar en index.php
 
 GRACIAS!!!
