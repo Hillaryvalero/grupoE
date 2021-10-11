@@ -1,0 +1,6 @@
+Para visualizar el portafolio ingrese en el repositorio:https://github.com/Hillaryvalero/grupoE
+Encontrara una serie de carpetas y de archivos ; porfavor ingresar a la carpeta :
+portafolio HV
+una vez dentro de esta carpeta podra visualizar abriendo en chrome el index.html
+
+GRACIAS!!!
