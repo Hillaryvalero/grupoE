@@ -2,6 +2,6 @@ Para visualizar el portafolio ingrese en el repositorio:https://github.com/Hilla
 Encontrara una serie de carpetas y de archivos ; porfavor ingresar a la carpeta :
 portafolio HV
 una vez dentro de esta carpeta ingresar a portafoliophp
-podra visualizar en index.php
+podra visualizar el portafolio en  index.php
 
 GRACIAS!!!
